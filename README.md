@@ -1,2 +1,2 @@
-# aws-pipeline-test
-Test repo to test aws docker image building capabilities
+# travis-docker-test
+Test repo to test travis ci docker image building capabilities
